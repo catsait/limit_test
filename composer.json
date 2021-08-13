@@ -3,7 +3,6 @@
     "description": "redis-limit",
     "type": "1",
     "require": {
-        "ext-redis": ">=5.0",
         "php": ">=5.6"
     },
     "license": "Apache-2.0",
